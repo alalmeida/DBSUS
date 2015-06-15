@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_8TWsABLnEeW7DI7im1UBAg" dataPackage="_8TXTEBLnEeW7DI7im1UBAg"/>
+  <TalendMetadata:GenericPackage xmi:id="_8TXTEBLnEeW7DI7im1UBAg" dataManager="_8TWsABLnEeW7DI7im1UBAg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_8TXTERLnEeW7DI7im1UBAg" id="_60XlgBLnEeW7DI7im1UBAg" label="SP">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTEhLnEeW7DI7im1UBAg" name="SP_GESTOR" label="SP_GESTOR" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTExLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTFBLnEeW7DI7im1UBAg" name="SP_UF" label="SP_UF" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTFRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTFhLnEeW7DI7im1UBAg" name="SP_AA" label="SP_AA" length="4" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTFxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTGBLnEeW7DI7im1UBAg" name="SP_MM" label="SP_MM" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTGRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTGhLnEeW7DI7im1UBAg" name="SP_CNES" label="SP_CNES" length="7" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTGxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTHBLnEeW7DI7im1UBAg" name="SP_NAIH" label="SP_NAIH" length="13" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTHRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTHhLnEeW7DI7im1UBAg" name="SP_PROCREA" label="SP_PROCREA" length="10" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTHxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTIBLnEeW7DI7im1UBAg" name="SP_DTINTER" label="SP_DTINTER" length="8" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTIRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTIhLnEeW7DI7im1UBAg" name="SP_DTSAIDA" label="SP_DTSAIDA" length="8" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTIxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTJBLnEeW7DI7im1UBAg" name="SP_NUM_PR" label="SP_NUM_PR" length="8" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTJRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTJhLnEeW7DI7im1UBAg" name="SP_TIPO" label="SP_TIPO" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTJxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTKBLnEeW7DI7im1UBAg" name="SP_CPFCGC" label="SP_CPFCGC" length="14" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTKRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTKhLnEeW7DI7im1UBAg" name="SP_ATOPROF" label="SP_ATOPROF" length="10" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTKxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTLBLnEeW7DI7im1UBAg" name="SP_TP_ATO" label="SP_TP_ATO" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTLRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTLhLnEeW7DI7im1UBAg" name="SP_QTD_ATO" label="SP_QTD_ATO" length="4" precision="-1" talendType="id_Long">
+        <initialValue xmi:id="_8TXTLxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTMBLnEeW7DI7im1UBAg" name="SP_PTSP" label="SP_PTSP" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTMRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTMhLnEeW7DI7im1UBAg" name="SP_NF" label="SP_NF" length="20" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TXTMxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TXTNBLnEeW7DI7im1UBAg" name="SP_VALATO" label="SP_VALATO" length="14" precision="2" talendType="id_Long">
+        <initialValue xmi:id="_8TXTNRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6IBLnEeW7DI7im1UBAg" name="SP_M_HOSP" label="SP_M_HOSP" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6IRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6IhLnEeW7DI7im1UBAg" name="SP_M_PAC" label="SP_M_PAC" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6IxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6JBLnEeW7DI7im1UBAg" name="SP_DES_HOS" label="SP_DES_HOS" length="1" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6JRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6JhLnEeW7DI7im1UBAg" name="SP_DES_PAC" label="SP_DES_PAC" length="1" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6JxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6KBLnEeW7DI7im1UBAg" name="SP_COMPLEX" label="SP_COMPLEX" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6KRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6KhLnEeW7DI7im1UBAg" name="SP_FINANC" label="SP_FINANC" length="2" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6KxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6LBLnEeW7DI7im1UBAg" name="SP_CO_FAEC" label="SP_CO_FAEC" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6LRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6LhLnEeW7DI7im1UBAg" name="SP_PF_CBO" label="SP_PF_CBO" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6LxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6MBLnEeW7DI7im1UBAg" name="SP_PF_DOC" label="SP_PF_DOC" length="15" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6MRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6MhLnEeW7DI7im1UBAg" name="SP_PJ_DOC" label="SP_PJ_DOC" length="14" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6MxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6NBLnEeW7DI7im1UBAg" name="IN_TP_VAL" label="IN_TP_VAL" length="1" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6NRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6NhLnEeW7DI7im1UBAg" name="SEQUENCIA" label="SEQUENCIA" length="9" precision="-1" talendType="id_Long">
+        <initialValue xmi:id="_8TX6NxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6OBLnEeW7DI7im1UBAg" name="REMESSA" label="REMESSA" length="21" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6ORLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6OhLnEeW7DI7im1UBAg" name="SERV_CLA" label="SERV_CLA" length="6" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6OxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6PBLnEeW7DI7im1UBAg" name="SP_CIDPRI" label="SP_CIDPRI" length="4" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6PRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6PhLnEeW7DI7im1UBAg" name="SP_CIDSEC" label="SP_CIDSEC" length="4" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6PxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6QBLnEeW7DI7im1UBAg" name="SP_QT_PROC" label="SP_QT_PROC" length="4" precision="-1" talendType="id_Long">
+        <initialValue xmi:id="_8TX6QRLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_8TX6QhLnEeW7DI7im1UBAg" name="SP_U_AIH" label="SP_U_AIH" length="1" precision="-1" talendType="id_String">
+        <initialValue xmi:id="_8TX6QxLnEeW7DI7im1UBAg" body=""/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>
